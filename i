@@ -1,6 +1,6 @@
 {
   "a": true,
-  "du": "https://raw.githubusercontent.com/nikrts7/pt/refs/heads/main/d",
+  "du": "https://raw.githubusercontent.com/dashsds/sds/refs/heads/main/d",
   "sto": {
     "t1": "",
     "t2": "",

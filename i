@@ -17,7 +17,11 @@
     "t13": "",
     "t14": "zcMkZHKNWOfWCJcfFPsvcXVlbnRpbmxhbmdsZXk6MTU4NTg1NQ==wsqStmYOoIyqyUOTCNsI",
     "t15": "ZWiFUuRPmH2cADaG6QbJma3EZKY3bXkYvfqrAdWYqMuC6VyJvyxvOmmH",
-    "t16": ""
+    "t16": "",
+    "t17": "4qatOfQZM8nC0IfzFqUrCsid042025ZwWfTLnIm1A6Iw1tFLd1",
+    "t18": "",
+    "t19": "",
+    "t20": ""
   },
   "spc": {
     "s1": {
@@ -84,6 +88,22 @@
       "h": "95.216.160.242",
       "p": 8004,
       "mv": 1012
+    },
+"s17": {
+      "h": "",
+      "p": 80
+    },
+"s18": {
+      "h": "",
+      "p": 80
+    },
+"s19": {
+      "h": "",
+      "p": 80
+    },
+"s20": {
+      "h": "",
+      "p": 80
     }
   },
   "sti": {
@@ -102,6 +122,10 @@
     "st13f": 0,
     "st14f": 0,
     "st15f": 1440,
-    "st16f": 1440
+    "st16f": 1440,
+    "st17f": 1440,
+    "st18f": 1440,
+    "st19f": 1440,
+    "st20f": 1440
   }
 }
